@@ -1,0 +1,25 @@
+.button {
+  margin-top: 20px;
+  justify-content: space-between;
+  align-content: space-between;
+  flex-direction: row;
+  width: 100%;
+  padding: 20px 0px 20px 0px;
+  background-color: #6D2932;
+ }
+
+.button {
+background-color: #6D2932;
+padding: 15px 40px ;
+border-radius: 4px;
+color: white;
+font-weight: bold;
+font-family: 'Lora', sans-serif;
+margin-top: 100px;
+box-shadow: 0px 0px 5px 5px rgba(555,555,555, 0.5);
+
+}
+
+.button:hover {
+  background-color: black;
+  }
